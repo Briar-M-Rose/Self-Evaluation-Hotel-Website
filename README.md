@@ -1,3 +1,5 @@
+Below are the requirements I had to follow for this assignment in order to practice the HTML and CSS I learned over the course of May.
+
 ## Technical Specifications 
 
 ### Navbar
